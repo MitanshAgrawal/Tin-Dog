@@ -1,5 +1,5 @@
 # Tin-Dog
-first webd experience
 
+HOWDY !!
 This site is live on Netlify !!
 Visit https://tindog-by-mitansh.netlify.com
